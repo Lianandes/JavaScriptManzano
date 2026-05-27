@@ -1,4 +1,4 @@
-# JavaScriptManzano
+
 # JavaScript Manzano
 
 Projeto desenvolvido para praticar lógica de programação e algoritmos utilizando JavaScript com base nos exercícios do livro Manzano.
